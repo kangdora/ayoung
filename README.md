@@ -19,15 +19,13 @@
 
 ### Git Fork
 
-![](.README_images/git-fork.png)
-
-https://github.com/BCSDLab-Edu/git-introduction
+https://github.com/kangdora/ayoung
 
 위 레포지토리에 들어가서 Fork를 수행합니다.
 
 ### Git Clone
 
-![](.README_images/git-clone.png)
+Code - HTTPS - Copy
 
 ```bash
 git clone https://github.com/{본인이 fork한 레포지토리 주소}
@@ -51,3 +49,5 @@ git commit -m "커밋메시지"
 # 커밋 내역을 원격 저장소에 push합니다.
 git push origin main
 ```
+
+총 4개 이상의 커밋과 함께 제출해주세요.
